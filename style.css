@@ -1,0 +1,17 @@
+#table{
+    background-color: yellow;
+    border: 0; border-collapse: collapse;
+}
+td{
+    width: 100px; height: 100px;
+}
+.num{text-align: center}
+
+.v{
+    text-align:right;
+}
+P{margin-right: 15px}
+.white{
+    background-color: white;
+}
+.black{background-color: black}
